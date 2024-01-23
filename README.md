@@ -72,6 +72,8 @@ O projeto foi um grande desafio e uma ótima oportunidade de aprender sobre os c
 
 Aluno A,
 Aluno B,
-Aluno C.
+[Sara Maria](https://github.com/1Sayza).
+
+
 
 **Observação:** Este README assume que você está familiarizado com o ambiente Asterisk, MySQL e Python. Certifique-se de compreender as implicações de segurança ao lidar com dados sensíveis do cliente.
