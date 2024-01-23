@@ -71,7 +71,7 @@ O projeto foi um grande desafio e uma ótima oportunidade de aprender sobre os c
 ## Autores
 
 Aluno A,
-Aluno B,
+[Diego Lima](https://www.linkedin.com/in/diegolimag) e 
 [Sara Maria](https://github.com/1Sayza).
 
 
