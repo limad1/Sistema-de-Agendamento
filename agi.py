@@ -1,8 +1,8 @@
 
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Rede de Saude Vitality Health Solutions
-# Versao FUNCIONAL
+# Rede de Saude Vitality Health Solutions(ficticia)
+
 
 # Importamos as bibliotecas:
 import sys
