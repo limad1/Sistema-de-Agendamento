@@ -25,7 +25,7 @@ def format_birthdate(birthdate):
 def format_data(date_str):
     return '{0}-{1}-{2}'.format(date_str[4:], date_str[2:4], date_str[:2])
 
-# Funcao para obter a saudao
+# Funcao para obter a saudacao
 def get_greeting():
     current_hour = datetime.now().hour
     saudacao=''
